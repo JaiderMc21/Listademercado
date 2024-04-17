@@ -1,0 +1,18 @@
+.lista{
+    display: flex;
+    flex-direction: column;
+    background: blanchedalmond;
+    margin: 15px;
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.listainterna{
+    padding: 15px;
+}
+
+.lista li{
+    margin-top: 5px;
+}
